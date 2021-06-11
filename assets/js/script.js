@@ -140,7 +140,7 @@ function selectWinner() {
                 resultBox.classList.add('show');
                 playBoard.classList.remove('show');
             }, 700); //1s = 1000ms
-            wonText.textContent = 'Match has been drawn!'; //tampilkan text draw
+            wonText.textContent = 'Permainan seri!'; //tampilkan text draw
         }
     }
 }
