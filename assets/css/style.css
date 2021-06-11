@@ -234,13 +234,8 @@ body {
         font-size: 5vw;
     }
 
-    .play-board {
-        width: 85%;
-    }
-
-    .play-area section span {
-        height: 80px;
-        width: 80px;
+    .play-area section {
+        justify-content: center;
     }
 
     .result-box {
