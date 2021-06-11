@@ -1,3 +1,5 @@
+/* TERINSPIRASI DARI CODING NEPAL */
+
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap');
 
 * {
@@ -136,8 +138,8 @@ body {
     width: 50%;
     height: 100%;
     background-color: #091921;
-    box-shadow: -1px -1px 3px rgba(255, 255, 255, 0.1),
-        2px 2px 6px rgba(0, 0, 0, 0.8);
+    box-shadow: -1px -1px 6px rgba(0, 0, 0, 0.8),
+        2px 2px 3px rgba(255, 255, 255, 0.1);
     border-radius: 5px;
     transition: all 0.3s ease;
 }
